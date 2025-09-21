@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\bin\Debug\net9.0\FutureGameReviewPredictionSystem.exe
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\bin\Debug\net9.0\FutureGameReviewPredictionSystem.deps.json
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\bin\Debug\net9.0\FutureGameReviewPredictionSystem.runtimeconfig.json
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\bin\Debug\net9.0\FutureGameReviewPredictionSystem.dll
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\bin\Debug\net9.0\FutureGameReviewPredictionSystem.pdb
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.AssemblyInfo.cs
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.dll
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\refint\FutureGameReviewPredictionSystem.dll
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.pdb
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\FutureGameReviewPredictionSystem.genruntimeconfig.cache
+C:\Users\HP\Desktop\Master of Science in Computer Science (AU)\Artificial Intelligence\Project\FutureGameReviewPredictionSystem\obj\Debug\net9.0\ref\FutureGameReviewPredictionSystem.dll
